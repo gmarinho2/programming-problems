@@ -1,5 +1,5 @@
 # Solutions
-My explanation for the leetcode problems I have solved.
+Here are my explanation for the leetcode problems I have solved. Even tho I am more accostomed to program in C, Python is the way to go when you want to focus only on problem solving skills.
 ### [Group Anagrams](https://github.com/gmarinho2/programming-problems/blob/main/Anagram-Groups.py) 
 As anagrams have the same number of equal letters, for each word count how many of every letter of the alphabect it has and put that in a **vector[26]** ("a" is 0, "b" is 1 and so on). Use that as a key to a **hashmap of lists** and add this word to the specified list. Return the list of lists. 
 
